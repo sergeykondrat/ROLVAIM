@@ -1,0 +1,5 @@
+{
+  "name": "роялти.vime",
+  "description": "A comprehensive platform for analyzing music distributor royalty reports with support for large CSV files and detailed artist/track analytics.",
+  "requestFramePermissions": []
+}
